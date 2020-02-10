@@ -1,0 +1,29 @@
+body {
+	font-family: Avenir, Sans-serif;
+	color: #1B1B1B;
+	background-color: #3A0037;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Didot, serif;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+a {
+	color: #006B7A;
+}
+
+main {
+	width: 90%;
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: #FAFAFA;
+	padding: 20px 60px;
+}
+
+.map {
+	width: 100%;
+}
